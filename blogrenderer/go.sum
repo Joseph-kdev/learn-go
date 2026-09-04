@@ -1,0 +1,4 @@
+github.com/approvals/go-approval-tests v1.14.0 h1:TVCaKX2PR5m0xN3062cW9PC5Ptkx3kRytmNtm0Ap1+Q=
+github.com/approvals/go-approval-tests v1.14.0/go.mod h1:3HKg6haD0Wg6p1SiA8/xHWg/xu4qnsB73ocJoo6zNy8=
+github.com/yuin/goldmark v1.8.6 h1:d0VcaP1sx9GkFVkoW+KtggpGi2KZ965i14b0+bDQST4=
+github.com/yuin/goldmark v1.8.6/go.mod h1:ip/1k0VRfGynBgxOz0yCqHrbZXhcjxyuS66Brc7iBKg=
